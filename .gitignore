@@ -1,0 +1,53 @@
+# Environments & Virtual Envs
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node & Frontend Build
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+*.tsbuildinfo
+
+# Runtime Data & Uploads
+data/uploads/*
+data/results/*
+!data/uploads/.gitkeep
+!data/results/.gitkeep
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Model Weight Checkpoints (User provided)
+models/*.pt
+models/*.onnx
+models/*.engine
+models/*.tflite
+!models/README.md
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Logs & Temporary Files
+backend_stdout.log
+backend_stderr.log
+*.log
+*.tmp
+
+# Editor & OS Artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
