@@ -202,7 +202,7 @@ AgriSentinel/
 ├── data/                     # SQLite database & runtime media uploads
 ├── scripts/                  # Helper utilities (synthetic sample generator)
 ├── CONTRIBUTING.md           # Contribution guidelines
-├── LICENSE                   # MIT License (Daanial Mirza)
+├── LICENSE                   # MIT License (Daanial Baig)
 ├── .env.example              # Environment variable template
 └── .gitignore                # Comprehensive Git ignore rules
 ```
@@ -320,7 +320,7 @@ See [Limitations](docs/LIMITATIONS.md) and [Hardware Integration](docs/HARDWARE_
 
 ## Author
 
-**Daanial Mirza**  
+**Daanial Baig**  
 GitHub: [@daanialmirza5](https://github.com/daanialmirza5)  
 Email: [daanialmirza@gmail.com](mailto:daanialmirza@gmail.com)
 
